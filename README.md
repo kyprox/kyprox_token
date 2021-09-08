@@ -1,6 +1,6 @@
 # KyproX Token
 
-![KyproX](http://www.kyprox.org/static/images/topo_logo.svg)
+![KyproX](http://www.kyprox.org/static/head2x.png)
 
 Smart Contract 🚀
 
